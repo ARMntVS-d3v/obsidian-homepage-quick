@@ -27,5 +27,5 @@
 ## 📷 Скриншоты
 
 ## 🛠 Разработчик
-Автор: **ARMntVS-d3v**  
-GitHub: https://github.com/ARMntVS-d3v/obsidian-homepage-quick/
+Автор: **[ARMntVS-d3v](https://github.com/ARMntVS-d3v/)**  
+GitHub: [Ссылка на репозиторий](https://github.com/ARMntVS-d3v/obsidian-homepage-quick/)
