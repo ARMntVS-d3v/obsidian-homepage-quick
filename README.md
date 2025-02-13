@@ -2,6 +2,11 @@
 
 **HomePage Quick** is a simple and fast Obsidian plugin that allows you to set a homepage that opens automatically when you launch the app. It works seamlessly on all devices, including mobile.
 
+## 🌍 Available Languages
+- [Русский](docs/README.ru.md)
+- [Español](docs/README.es.md)
+- [简体中文](docs/README.zh.md)
+
 ## 🚀 Features
 - Choose any file in Obsidian as your homepage.
 - Automatically opens the selected file at startup.
@@ -20,8 +25,7 @@ The plugin has a single setting: choose the file to be used as the homepage.
 This project is licensed under the [MIT](LICENSE) license.
 
 ## 📷 Screenshots
-*(Add interface images here if available.)*
 
 ## 🛠 Developer
-Author: **[Your Name or Nickname]**  
-GitHub: [Repository Link]
+Author: **ARMntVS-d3v**  
+GitHub: https://github.com/ARMntVS-d3v/obsidian-homepage-quick/
