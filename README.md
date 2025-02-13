@@ -27,5 +27,5 @@ This project is licensed under the [MIT](LICENSE) license.
 ## 📷 Screenshots
 
 ## 🛠 Developer
-Author: **ARMntVS-d3v**  
-GitHub: https://github.com/ARMntVS-d3v/obsidian-homepage-quick/
+Author: **[ARMntVS-d3v]**  
+GitHub: [Repository Link](https://github.com/ARMntVS-d3v/obsidian-homepage-quick/)
