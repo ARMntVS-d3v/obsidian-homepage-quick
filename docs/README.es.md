@@ -3,9 +3,9 @@
 **HomePage Quick** es un plugin simple y rápido para Obsidian que te permite establecer una página de inicio que se abre automáticamente al iniciar la aplicación. Funciona en todos los dispositivos, incluidos los móviles.
 
 ## Idiomas disponibles
-- [Русский](docs/README.ru.md)
+- [Русский](/docs/README.ru.md)
 - [English](../README.md)
-- [简体中文](docs/README.zh.md)
+- [简体中文](/docs/README.zh.md)
 
 ## Funciones
 - Permite seleccionar un archivo en Obsidian como página de inicio.
