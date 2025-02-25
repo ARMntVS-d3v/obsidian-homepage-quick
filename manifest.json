@@ -2,7 +2,7 @@
     "id": "homepage-quick",
     "name": "Homepage Quick",
     "version": "1.0.0",
-    "minAppVersion": "1.0.0",
+    "minAppVersion": "1.3.0",
     "description": "A plugin to instantly open your homepage when launching Obsidian.",
     "author": "ARMntVS-d3v",
     "authorUrl": "https://github.com/ARMntVS-d3v",
