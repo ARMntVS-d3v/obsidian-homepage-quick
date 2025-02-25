@@ -4,8 +4,8 @@
 
 ## Доступные языки
 - [English](../README.md)
-- [Español](README.es.md)
-- [简体中文](README.zh.md)
+- [Español](docs/README.es.md)
+- [简体中文](docs/README.zh.md)
 
 ## Основные функции
 - Позволяет выбрать файл в Obsidian в качестве домашней страницы.
